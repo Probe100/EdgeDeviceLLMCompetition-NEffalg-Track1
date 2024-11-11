@@ -1,0 +1,2 @@
+# EdgeDeviceLLMCompetition-NICSEffalg
+EdgeDeviceLLMCompetition final submission
