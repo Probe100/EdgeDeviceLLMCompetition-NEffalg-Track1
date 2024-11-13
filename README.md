@@ -37,11 +37,7 @@ OneDrive option: [Link](https://1drv.ms/u/c/f545d3fc68499cef/EUMG3dkTXnNJsVQg9dV
 
 ### Screenshot
 
-![Llama 3.1](assets/screenshot_llama3_1.jpg)
-
-![Qwen 2](assets/screenshot_qwen2.jpg)
-
-![Phi 2](assets/screenshot_phi2.jpg)
+Check screenshot_llama3_1.jpg, screenshot_qwen2.jpg, and screenshot_phi2.jpg in assets folder
 
 ### CSV file
 
