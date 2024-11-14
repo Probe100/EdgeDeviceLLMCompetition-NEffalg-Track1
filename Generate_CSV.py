@@ -4,7 +4,7 @@ import pandas as pd
 columns = ['CommonsenseQA', 'BIG-Bench-Hard', 'GSM8K', 'HumanEval', 'CHID', 'TruthfulQA', 'Throughput', 'Memory-Usage']
 
 # replace 0 with your evaluated results.
-value = [26.510, 21.377, 0.173, 11.590, 28.123, 12.603, 23.097, 8573.243]
+value = [26.510, 28.123, 21.377, 12.603, 11.590, 0.173, 23.097, 8573.243]
 data = {columns[i]: value[i] for i in range(len(columns))}
 
 

@@ -37,7 +37,7 @@ OneDrive option: [Link](https://1drv.ms/u/c/f545d3fc68499cef/EUMG3dkTXnNJsVQg9dV
 
 ### Screenshot
 
-Check screenshot_llama3_1.jpg, screenshot_qwen2.jpg, and screenshot_phi2.jpg in assets folder
+Check `screenshot_llama3_1.jpg`, `screenshot_qwen2.jpg`, and `screenshot_phi2.jpg` in `assets` folder
 
 ### CSV file
 
@@ -267,4 +267,4 @@ Use android studio Build/Generation Signed App Bundle/APK to generate apk
 
 use python bundle_weight.py --apk-path app/release/app-release.apk to transfer weight from computer to mobile phone
 
-Our `bundle_weight.py` is the same as the original one so either script works
+Our `bundle_weight.py` is the same as the original one so either script works. Our `bundle_weight.py` can be found in `assets` folder
