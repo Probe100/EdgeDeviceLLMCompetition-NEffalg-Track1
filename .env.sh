@@ -1,4 +1,4 @@
-export https_proxy="http://10.10.20.100:1089"
+export https_proxy=""
 export HF_ENDPOINT="https://hf-mirror.com"
-export TRANSFORMERS_CACHE="/share/public/hanling/cache"
-export HF_DATASETS_CACHE="/share/public/hanling/dataset_cache"
+export TRANSFORMERS_CACHE=""
+export HF_DATASETS_CACHE=""
